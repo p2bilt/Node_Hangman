@@ -1,0 +1,24 @@
+{
+  "name": "node_hangman",
+  "version": "1.0.0",
+  "description": "A Hangman game implemented in Node.js, using JavaScript constructors",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p2bilt/Node_Hangman.git"
+  },
+  "author": "Peter Johnstone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p2bilt/Node_Hangman/issues"
+  },
+  "homepage": "https://github.com/p2bilt/Node_Hangman#readme"
+}
